@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eliaschml
-- 👀 I’m interested in blockchain, webdesign and audio signal processing
-- 🌱 I’m currently learning js and quant trading
-- 💞️ I’m looking to collaborate on crypto related projects
+- 👀 I’m currently learning fasthtml
+- ⚙️ Interested in testing out new ideas
 - 📫 How to reach me eliaschml@gmail.com
 
 <!---
